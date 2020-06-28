@@ -1,6 +1,6 @@
 # Tasks
 
-Projeto desenvolvido no curso de React-Native.
+Projeto desenvolvido no curso de React-Native da cod3r.
 
 Uma ferramenta de controle de tarefas.
 
