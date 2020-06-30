@@ -1,7 +1,7 @@
 # Tasks
 
-Projeto desenvolvido no curso de React-Native da cod3r.
+### A task controling tool.
 
-Uma ferramenta de controle de tarefas.
+Project developed with the react-native course from cod3r.
 
 ![](./assets/screenShots/screenShotTomorrow.png)
