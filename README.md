@@ -28,4 +28,4 @@ Used to storage data on the phone, if the app is offline.
 
 - 1.5.2
 
-Used to create a delete button by swipping the task to the side.
+Used to create a delete button by swiping the task to the side.
