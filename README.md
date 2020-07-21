@@ -23,3 +23,9 @@ Side drawer navigation, obtained by the gesture on the side of the screen.
 - 1.7.1
 
 Used to storage data on the phone, if the app is offline.
+
+### React-native-gesture-handler
+
+- 1.5.2
+
+Used to create a delete button by swipping the task to the side.
