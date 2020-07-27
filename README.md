@@ -4,7 +4,7 @@
 
 Project developed with the react-native course from cod3r.
 
-![](./assets/screenShots/screenShotTomorrow.png)
+<img src="./assets/screenShots/screenShotTomorrow.png" width="300">
 
 ### Axios
 
